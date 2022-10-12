@@ -1,0 +1,29 @@
+[
+    {
+        "label": "num1",
+        "kind": 5,
+        "importPath": "first",
+        "description": "first",
+        "peekOfCode": "num1 = 6\nnum2 = 8\nsum = num1 + num2\nprint(sum)",
+        "detail": "first",
+        "documentation": {}
+    },
+    {
+        "label": "num2",
+        "kind": 5,
+        "importPath": "first",
+        "description": "first",
+        "peekOfCode": "num2 = 8\nsum = num1 + num2\nprint(sum)",
+        "detail": "first",
+        "documentation": {}
+    },
+    {
+        "label": "sum",
+        "kind": 5,
+        "importPath": "first",
+        "description": "first",
+        "peekOfCode": "sum = num1 + num2\nprint(sum)",
+        "detail": "first",
+        "documentation": {}
+    }
+]
